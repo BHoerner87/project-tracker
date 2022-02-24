@@ -3,12 +3,12 @@ A motivational app to help me keep track of progress on various things I've begu
 
 Things to track and how to track them
 
-DIY Projects
-  Project
-    Goal
-    Requisite Resources
-      Have
-      Need
+- DIY Projects
+  - Project
+    - Goal
+    - Requisite Resources
+      - Have
+      - Need
     Steps to Complete
       CRUD
         For Update: be able to insert or move steps
