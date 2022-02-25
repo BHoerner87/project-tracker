@@ -49,3 +49,8 @@ Things to track and how to track them
         - It's Christmastime, do you want to watch (oldest Christmas movie in vector)?
         - It's Summertime, do you want to watch (oldest summer blockbuster in vector)?
         - It's Wintertime, do you want to watch (lighthearted comedy)?
+
+- Coding Projects
+  - Project Tracker
+  - BrianBanker
+  - Cut Tracker
